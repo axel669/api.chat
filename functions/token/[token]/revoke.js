@@ -1,5 +1,5 @@
 import { onRequestGet as validate } from "./validate"
-export const onRequestGet = async ({ request, env, params }) => {
+export const onRequestGet = async ({ params }) => {
     const valid = await validate({ params })
     if (valid.ok === false) {
         return valid
