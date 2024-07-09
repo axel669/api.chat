@@ -1,2 +1,6 @@
-name = "api-chat"
-compatability_date = "2023-12-29"
+name = "shion-twitch"
+compatibility_date = "2024-06-03"
+
+pages_build_output_dir = "site"
+
+[vars]
