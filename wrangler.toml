@@ -1,4 +1,4 @@
-name = "shion-twitch"
+name = "api-chat"
 compatibility_date = "2024-06-03"
 
 pages_build_output_dir = "site"
